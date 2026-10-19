@@ -1,9 +1,5 @@
 # THREE DAYS WITH TONY
 
-# ─── Installations
-# pip install pygame
-# pip install pygame-widgets
-
 # ─── Imports
 import random, sys
 import pygame

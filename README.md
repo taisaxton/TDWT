@@ -2,6 +2,13 @@ Three Days With Tony
 - Horror, Click-And-Point, Survival
 - Inspired by FNAF (Five Nights At Freddy)
 
+
+INTRUCTIONS
+- To play the game u must paste the following text in command prompt to install required prerequisites
+    # pip install pygame
+    # pip install pygame-widgets
+- To beat the game you must survive until 12PM, by closing doors and watching windows.
+
 CONTEXT/LORE
 - For a long-weekend an friend invites you over for a sleepover when you suddenly wake up in the middle of the night,
 your friend, Tony is nowhere to be seen as you begin to hear odd unexplainable noises outside of the room.
